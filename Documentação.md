@@ -16,7 +16,7 @@ A metodologia consiste em fracionar e gerenciar chamados simultaneamente com bas
 
 ## 2. Conceitos Fundamentais
 
-Cada ticket ou demanda selecionada deve ser fracionada em **2 a 5 subetapas ou processos**, classificados obrigatoriamente em duas categorias:
+Cada ticket ou demanda selecionada deve ser fracionada em **subetapas ou processos**, classificados obrigatoriamente em duas categorias:
 
 ### 2.1. Processos Ativos (`A|`)
 São atividades que exigem a presença, atenção contínua e intervenção manual do operador para progredirem. A velocidade dessas tarefas depende diretamente da ação humana.
